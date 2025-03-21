@@ -14,7 +14,7 @@ scanners para as informações do produto
 add na array
 
 case-2:
-scanner do id do produto
+scanner do id do produto;
 caso não exista, print de codigo invalido
 caso exista, scanners para subtituir as informações do produto
 
